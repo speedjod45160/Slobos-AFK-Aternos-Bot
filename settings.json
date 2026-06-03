@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "Minecraftdiddyedon.aternos.me",
+    "ip": "Minecraftdiddyedon.aternos.me:19999",
     "port": 19999,
     "version": "",
     "try-creative": false
